@@ -1,4 +1,4 @@
-# React + Vite
+# ToDo Rdux Toolkit CRUD App with Axios, using Jason server
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
