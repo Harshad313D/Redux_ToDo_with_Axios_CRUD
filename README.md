@@ -17,6 +17,8 @@ A simple **To-Do App** built using **React, Redux Toolkit, Axios**, and a **JSON
 ## 🔄 State Management with Redux Toolkit
 This app uses createAsyncThunk for handling asynchronous API calls and extraReducers to update the state based on API responses.
 
+---
+
 ## 🛠️ Required Packages  
 
 Install the necessary dependencies before running the app:  
@@ -28,6 +30,7 @@ axios
 json-server
 ```
 
+--
 
 ## ⚙️ JSON Server Setup
 
@@ -50,6 +53,7 @@ json-server
 json-server --watch db.json --port 3030
 ```
 
+--
 
 ## 🚀 Getting Started
 1️⃣ Clone the repository
@@ -69,6 +73,8 @@ npm install
 npm run dev
 ```
 
+--
+
 ## 🛠 API Endpoints
 
 
@@ -78,6 +84,8 @@ npm run dev
 | **POST** | `/API_URL, NewTodo` | Add a new task |
 | **DELETE** | `/API_URL/${id}` | Delete a task by ID |
 | **PUT** | `/API_URL/${data.id}, data` | Update a task by ID |
+
+
 
 *********************************************************************************************************************************************************************************************************************
 ## 🔗 Connect With Me
