@@ -77,7 +77,7 @@ npm run dev
 
 *********************************************************************************************************************************************************************************************************************
 ## 🔗 Connect With Me
-## 🌐 Portfolio: [your-portfolio.com](https://hd-portfolio-kappa.vercel.app/)
+## 🌐 Portfolio: [My-portfolio.com](https://hd-portfolio-kappa.vercel.app/)
 ## 📧 Email: hd@examples.com
 
 
