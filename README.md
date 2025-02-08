@@ -67,10 +67,7 @@ npm run dev
 
 ## 🛠 API Endpoints
 
-# GET	-->>	Fetch all tasks
-# POST -->>	Add a new task
-# PUT	-->>	Update a task by ID
-# DELETE	-->>	Delete a task by ID
+
 | Method  | Endpoint  | Description |
 |---------|----------|-------------|
 | **GET** | `API_URL` | Fetch all tasks |
