@@ -1,8 +1,24 @@
-# ToDo Rdux Toolkit CRUD App with Axios, using Json server
+# 📝 Redux Toolkit Todo App with JSON Server  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **To-Do App** built using **React, Redux Toolkit, Axios**, and a **JSON Server** for persistent data storage. This app allows users to **add, update, delete, and fetch** tasks from a local JSON file.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+✅ Add new tasks  
+✅ Update existing tasks  
+✅ Delete tasks  
+✅ Fetch tasks from JSON Server  
+✅ State management with Redux Toolkit  
+✅ Data persistence with JSON Server  
+✅ API calls using Axios  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Required Packages  
+
+Install the necessary dependencies before running the app:  
+
+```sh
+npm install
+@reduxjs/toolkit react-redux
+axios
+json-server
