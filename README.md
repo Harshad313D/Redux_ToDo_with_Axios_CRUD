@@ -22,6 +22,7 @@ npm install
 @reduxjs/toolkit react-redux
 axios
 json-server
+```
 
 
 ## ⚙️ JSON Server Setup
