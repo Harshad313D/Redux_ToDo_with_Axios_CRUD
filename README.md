@@ -37,21 +37,22 @@ json-server
   ]
 }
 ```
-2️⃣ Add the following script in package.json:
+2️⃣ Add the following command in server terminal:
 ```sh
-"scripts": {
-  "server": "json-server --watch db.json --port 5000"
-}
+  npm i -g json-server
 ```
 3️⃣ Start the JSON Server:
+```sh
+json-server --watch db.json --port 3030
+```
 
 
 ## 🚀 Getting Started
 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+[git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+cd YOUR_REPOSITORY_NAME](https://github.com/Harshad313D/Redux_ToDo_with_Axios_CRUD.git)
 ```
 2️⃣ Install dependencies
 
@@ -65,11 +66,11 @@ npm run dev
 ```
 
 ## 🛠 API Endpoints
-Method	Endpoint	Description
-GET	/todos	Fetch all tasks
-POST	/todos	Add a new task
-PUT	/todos/:id	Update a task by ID
-DELETE	/todos/:id	Delete a task by ID
+Method		Description
+GET	/	Fetch all tasks
+POST	/	Add a new task
+PUT	/	Update a task by ID
+DELETE	/	Delete a task by ID
 
 ## 🔗 Connect With Me
 ## 🌐 Portfolio: your-portfolio.com
