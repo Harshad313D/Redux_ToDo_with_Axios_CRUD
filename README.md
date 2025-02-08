@@ -7,11 +7,15 @@ A simple **To-Do App** built using **React, Redux Toolkit, Axios**, and a **JSON
 ✅ Update existing tasks  
 ✅ Delete tasks  
 ✅ Fetch tasks from JSON Server  
-✅ State management with Redux Toolkit  
-✅ Data persistence with JSON Server  
-✅ API calls using Axios  
+✅ **Redux Toolkit's createAsyncThunk for async API calls**  
+✅ **extraReducers to handle API states (loading, success, error)**  
+✅ API calls using Axios 
 
 ---
+
+
+## 🔄 State Management with Redux Toolkit
+This app uses createAsyncThunk for handling asynchronous API calls and extraReducers to update the state based on API responses.
 
 ## 🛠️ Required Packages  
 
