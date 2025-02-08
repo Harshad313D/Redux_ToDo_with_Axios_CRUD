@@ -22,3 +22,26 @@ npm install
 @reduxjs/toolkit react-redux
 axios
 json-server
+
+
+## ⚙️ JSON Server Setup
+1️⃣ Create a db.json file in the project root with the following structure:
+```sh
+{
+  "todos": [
+    { "id": 1, "title": "Learn Redux", "completed": false },
+    { "id": 2, "title": "Build a Todo App", "completed": true }
+  ]
+}
+```
+2️⃣ Add the following script in package.json:
+```sh
+"scripts": {
+  "server": "json-server --watch db.json --port 5000"
+}
+```
+3️⃣ Start the JSON Server:
+
+
+
+
