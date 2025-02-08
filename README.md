@@ -25,7 +25,9 @@ json-server
 
 
 ## ⚙️ JSON Server Setup
+
 1️⃣ Create a db.json file in the project root with the following structure:
+
 ```sh
 {
   "todos": [
