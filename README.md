@@ -66,16 +66,22 @@ npm run dev
 ```
 
 ## 🛠 API Endpoints
-Method		Description
-GET	/	Fetch all tasks
-POST	/	Add a new task
-PUT	/	Update a task by ID
-DELETE	/	Delete a task by ID
 
+# GET	-->>	Fetch all tasks
+# POST -->>	Add a new task
+# PUT	-->>	Update a task by ID
+# DELETE	-->>	Delete a task by ID
+| Method  | Endpoint  | Description |
+|---------|----------|-------------|
+| **GET** | `API_URL` | Fetch all tasks |
+| **POST** | `/API_URL, NewTodo` | Add a new task |
+| **DELETE** | `/API_URL/${id}` | Delete a task by ID |
+| **PUT** | `/API_URL/${data.id}, data` | Update a task by ID |
+
+*********************************************************************************************************************************************************************************************************************
 ## 🔗 Connect With Me
-## 🌐 Portfolio: your-portfolio.com
-## 🐦 Twitter: @yourhandle
-## 📧 Email: your-email@example.com
+## 🌐 Portfolio: [your-portfolio.com](https://hd-portfolio-kappa.vercel.app/)
+## 📧 Email: hd@examples.com
 
 
 
