@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://harshad313d.github.io/Redux_ToDo_with_Axios_CRUD/",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
